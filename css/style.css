@@ -71,10 +71,15 @@ body {
     font-size: 1.5rem;
     color: #555;
 }
-
-
-
 /* end of side bar */
+
+/* navigation */
+.navigation {
+    margin-left: 8rem;
+    position: fixed;
+}
+/* end of navigation */
+
 /* end of navbar */
 
 
