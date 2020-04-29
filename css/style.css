@@ -188,6 +188,12 @@ body {
     width: 3rem;
 }
 
+.copyright{
+    color: white;
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+}
+
 /* end of navigation */
 
 /* end of navbar */
