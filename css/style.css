@@ -226,7 +226,7 @@ body {
 .header {
     margin-left: 8rem;
     height: 100vh;
-    background: linear-gradient(to top, rgba(0,0,0,.6),  rgba(0,0,0,.5)), url(../img/header-1.jpeg) center no-repeat fixed      xx;
+    background: linear-gradient(to top, rgba(0,0,0,.6),  rgba(0,0,0,.5)), url(../img/header-1.jpeg) center no-repeat fixed;
     background-size: cover;
 }
 
@@ -523,9 +523,68 @@ body {
     background-color: #b85d1c;
 
 }
-
-
 /* end of rooms */
+
+
+/* customers */
+.customers {
+    margin-left: 8rem;
+    padding-bottom: 7rem;
+    background-color: #15141b;
+}
+
+.customers-paragraph {
+    font-size: 1.8rem;
+    color: #ddd;
+    width: 50%;
+    margin: 2rem auto 8rem auto;
+    text-align: center;
+}
+
+.customers-card-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.customer-card {
+    background-color: #eee;
+    width: 60rem;
+    display: flex;
+}
+
+.customer-image-wrapper {
+    margin: auto 0;
+}
+
+
+.customer-image {
+    width: 20rem;
+    margin-left: -1.3rem;
+}
+
+.customer-info {
+    padding: 0 2rem;
+}
+
+.customer-full-name {
+    font-size: 2rem;
+    font-weight: 300;
+    margin-bottom: 0;
+}
+
+.customer-paragraph-1 {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #b85d1c;
+}
+
+.customer-paragraph-2 {
+    font-size: 1.3rem;
+    font-style: italic;
+}
+
+/* end of customers */
+
 
 
 
